@@ -12,7 +12,7 @@ Unreal Engine 5와 C++를 중심으로 게임플레이와 멀티플레이 시스
 
 ## Featured Project
 
-### [Balance Due](https://github.com/labyrinth03/Balance-Due)
+### [Balance Due](https://store.steampowered.com/app/5198690/Balance_Due/)
 
 낮과 밤의 순환 속에서 할당량을 관리하며 탐험하는 Unreal Engine 5 기반 협동 액션 RPG입니다.
 
@@ -22,9 +22,7 @@ Unreal Engine 5와 C++를 중심으로 게임플레이와 멀티플레이 시스
 - Unreal Insights와 CSV Profiler를 활용한 AI Tick 및 네트워크 갱신 최적화
 - Shipping 패키징, Steam 도전과제, SteamPipe 빌드 업로드와 출시 준비
 
-[상세 포트폴리오](https://app.notion.com/p/3f888c64c967808dba44c4cc49252b51)
-
-### Morituri
+### [Morituri](https://github.com/2026-1-capstone-design/main-game)
 
 Unity 6 기반 검투사 육성·전투 게임의 캡스톤디자인 팀 프로젝트입니다.
 
