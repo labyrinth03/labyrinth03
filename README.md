@@ -50,5 +50,3 @@ Unity 6 기반 검투사 육성·전투 게임의 캡스톤디자인 팀 프로�
 ## Contact
 
 - Email: [leedong1003@naver.com](mailto:leedong1003@naver.com)
-- Portfolio: [Notion](https://app.notion.com/p/3f888c64c967808dba44c4cc49252b51)
-
