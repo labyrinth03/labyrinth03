@@ -45,7 +45,3 @@ Unity 6 기반 검투사 육성·전투 게임의 캡스톤디자인 팀 프로�
 - **Multiplayer Correctness** — 호스트와 게스트의 권한·상태 차이를 고려해 구현합니다.
 - **Measure Before Optimizing** — 추측보다 재현과 계측을 통해 병목을 판단합니다.
 - **Product Completion** — 에디터 동작뿐 아니라 패키징, 플랫폼 연동과 출시 환경까지 검증합니다.
-
-## Contact
-
-- Email: [leedong1003@naver.com](mailto:leedong1003@naver.com)
