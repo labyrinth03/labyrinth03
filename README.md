@@ -1,11 +1,11 @@
-# 이동협 | Client Programmer
+# labyrinth03 | Client Programmer
 
 Unreal Engine 5와 C++를 중심으로 게임플레이와 멀티플레이 시스템을 개발합니다.  
 기능 구현에서 끝내지 않고, 권한과 상태의 생명주기를 설계하고 실제 패키지 환경에서 검증하는 과정을 중요하게 생각합니다.
 
 ## About Me
 
-- 서강대학교 컴퓨터공학과 재학
+- SGU CSE 21
 - Unreal Engine 5 기반 협동 액션 RPG **Balance Due** 1인 개발
 
 
