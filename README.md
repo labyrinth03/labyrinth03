@@ -1,7 +1,4 @@
-# labyrinth03 | Client Programmer
-
-Unreal Engine 5와 C++를 중심으로 게임플레이와 멀티플레이 시스템을 개발합니다.  
-기능 구현에서 끝내지 않고, 권한과 상태의 생명주기를 설계하고 실제 패키지 환경에서 검증하는 과정을 중요하게 생각합니다.
+# labyrinth03 | Game Client Programmer
 
 ## About Me
 
@@ -38,10 +35,3 @@ Unity 6 기반 검투사 육성·전투 게임의 캡스톤디자인 팀 프로�
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Steam](https://img.shields.io/badge/Steamworks-1B2838?style=flat-square&logo=steam&logoColor=white)
-
-## What I Focus On
-
-- **Gameplay Architecture** — 기능의 책임과 데이터 소유 주체를 명확하게 설계합니다.
-- **Multiplayer Correctness** — 호스트와 게스트의 권한·상태 차이를 고려해 구현합니다.
-- **Measure Before Optimizing** — 추측보다 재현과 계측을 통해 병목을 판단합니다.
-- **Product Completion** — 에디터 동작뿐 아니라 패키징, 플랫폼 연동과 출시 환경까지 검증합니다.
