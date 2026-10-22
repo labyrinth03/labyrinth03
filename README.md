@@ -18,6 +18,15 @@
 - Unreal Insights와 CSV Profiler를 활용한 AI Tick 및 네트워크 갱신 최적화
 - Shipping 패키징, Steam 도전과제, SteamPipe 빌드 업로드와 출시 준비
 
+### [Morituri](https://github.com/2026-1-capstone-design/main-game)
+
+Unity 6 기반 검투사 육성·전투 게임의 캡스톤디자인 팀 프로젝트입니다.
+
+- 게임 진입 흐름과 인벤토리, 상점, 스쿼드 편성 및 전투 UI 구현
+- 검투사, 장비, 재화와 진행 상태를 관리하는 JSON 기반 슬롯 세이브 시스템 개발
+- UI 레이아웃 갱신 충돌과 저장 데이터 참조 불일치 문제 해결
+- 교내 캡스톤디자인 경진대회 은상
+
 ### [겜만툴](https://github.com/2026-2-CapstoneTeamIdle/MainFlowChart)
 
 자연어 요구사항을 바탕으로 플레이 가능한 Unity 2D 게임 프로토타입을 생성하는 캡스톤디자인 팀 프로젝트입니다.
@@ -27,15 +36,6 @@
 - 게임 디렉팅, 시스템, 콘텐츠, 레벨과 밸런스를 구조화한 JSON 설계 계약과 Scene·Prefab 자동 조립 기능 구현
 - MCP 기반 프로젝트 파일 탐색 및 API 인덱스를 활용한 생성 코드 문맥 검수 체계 구축
 - Unity 컴파일·Play Mode 결과를 반영하는 자동 수정 반복과 독립 Validator AI를 통한 결과물 검증
-
-### [Morituri](https://github.com/2026-1-capstone-design/main-game)
-
-Unity 6 기반 검투사 육성·전투 게임의 캡스톤디자인 팀 프로젝트입니다.
-
-- 게임 진입 흐름과 인벤토리, 상점, 스쿼드 편성 및 전투 UI 구현
-- 검투사, 장비, 재화와 진행 상태를 관리하는 JSON 기반 슬롯 세이브 시스템 개발
-- UI 레이아웃 갱신 충돌과 저장 데이터 참조 불일치 문제 해결
-- 교내 캡스톤디자인 경진대회 은상
 
 ### [PUBG SUS](https://github.com/labyrinth03/PUBG_Malicious_Detect)
 
