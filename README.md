@@ -18,6 +18,16 @@
 - Unreal Insights와 CSV Profiler를 활용한 AI Tick 및 네트워크 갱신 최적화
 - Shipping 패키징, Steam 도전과제, SteamPipe 빌드 업로드와 출시 준비
 
+### [겜만툴](https://github.com/2026-2-CapstoneTeamIdle/MainFlowChart)
+
+자연어 요구사항을 바탕으로 플레이 가능한 Unity 2D 게임 프로토타입을 생성하는 캡스톤디자인 팀 프로젝트입니다.
+
+- 플랫포머, 타워디펜스, 카드 게임 등 6개 장르의 공통 C# 게임플레이 모듈과 Unity 프로젝트 생성 파이프라인 구현
+- 기존 모듈을 조립하고 부족한 기능만 LLM으로 생성하는 장르별 기능 설계 및 코드 생성 구조 개발
+- 게임 디렉팅, 시스템, 콘텐츠, 레벨과 밸런스를 구조화한 JSON 설계 계약과 Scene·Prefab 자동 조립 기능 구현
+- MCP 기반 프로젝트 파일 탐색 및 API 인덱스를 활용한 생성 코드 문맥 검수 체계 구축
+- Unity 컴파일·Play Mode 결과를 반영하는 자동 수정 반복과 독립 Validator AI를 통한 결과물 검증
+
 ### [Morituri](https://github.com/2026-1-capstone-design/main-game)
 
 Unity 6 기반 검투사 육성·전투 게임의 캡스톤디자인 팀 프로젝트입니다.
