@@ -29,6 +29,8 @@ Unity 6 기반 검투사 육성·전투 게임의 캡스톤디자인 팀 프로�
 
 ### [PUBG SUS](https://github.com/labyrinth03/PUBG_Malicious_Detect)
 
+[사이트 바로가기](https://pubg-a2d6rnagf-still-blinding.vercel.app/)
+
 팀킬을 유도하는 아군 피해와 방송 저격 의심 상황을 확인하기 위해 만든 PUBG 공식 API 기반 웹 도구입니다. 여러 경기의 전적을 일일이 대조하는 대신, 피해의 선후 관계와 두 플레이어의 동시 매칭 기록을 한 화면에서 확인할 수 있도록 개발했습니다.
 
 - JavaScript, Node.js, Express로 Steam·Kakao 서버의 최근 매치 조회 및 분석 구현
