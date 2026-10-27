@@ -4,6 +4,9 @@
 
 - SGU CSE 21
 - Unreal Engine 5 기반 협동 액션 RPG **Balance Due** 1인 개발
+- PUBG Lover
+  <img width="5712" height="4284" alt="pubg" src="https://github.com/user-attachments/assets/65ad286e-7307-4834-ac69-f8d8f63ef153" />
+
 
 
 ## Featured Project
