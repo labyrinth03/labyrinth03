@@ -15,6 +15,8 @@
 
 낮과 밤의 순환 속에서 할당량을 관리하며 탐험하는 Unreal Engine 5 기반 협동 액션 RPG입니다.
 
+<img width="920" height="430" alt="LibraryHeader" src="https://github.com/user-attachments/assets/1a927574-d95e-445e-b532-e1407db84af2" />
+
 - C++와 Blueprint를 활용한 전투, 인벤토리, 상점, 강화, 포탈과 세이브 시스템 구현
 - Server Authority, RPC, Replication 기반의 Steam 온라인 멀티플레이 구현
 - GameState, PlayerState, SaveGame을 활용한 공용·개인·영속 상태 분리
